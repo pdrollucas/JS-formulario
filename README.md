@@ -5,9 +5,15 @@
 <p align="center"> <img src="https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png" alt="Logo da Alura"> </p>
 <p align="center">Formulário de criação de contas para o banco virtual MoniBank.</p>
 
-## Tecnologias utilizadas durante o curso
+## Tecnologias utilizadas durante o curso:
 * JavaScript
 
-## Tecnologias utilizadas no projeto
-* HTML
-* CSS
+## Entrei em contato com:
+<ul> 
+  <li>Validações de um formulário, com ênfase em CPF e idade;</li>
+  <li>Capturar imagens da WebCam;</li>
+  <li>LocalStorage</li>
+</ul>
+
+## Reforcei conhecimento em:
+<li>JS DOM</li>
